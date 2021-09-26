@@ -1,0 +1,20 @@
+
+
+https://www.codeproject.com/Articles/5266758/Easy-Set-Up-of-NET-Core-on-Raspberry-Pi-and-Remote
+
+Camera module:
+https://pythonprogramming.net/camera-module-raspberry-pi-tutorials/
+
+Motion Sensor:
+https://tutorials-raspberrypi.com/connect-and-control-raspberry-pi-motion-detector-pir/
+https://www.youtube.com/watch?v=Tw0mG4YtsZk
+
+https://youtu.be/ZC_sEW3_694
+
+VS Code on the Pi
+https://www.youtube.com/watch?v=wwusEZ_EPdI
+
+
+Deploy .NET apps to Raspberry Pi
+https://docs.microsoft.com/en-us/dotnet/iot/deployment
+
